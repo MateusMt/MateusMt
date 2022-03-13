@@ -7,7 +7,7 @@ Here are some of my social networks, if you want to talk to me, I'll be happy to
   <p>I'm currently in the 7th semester of Computer engineering. :computer:</p>
   <p>I'm learning front-end development, but i like to learn everything about technologies</p>
   <p>Pronouns: He/Him</p>
-  <p>I'm learning development, so the projects here will not be the bests projets you have seen, but, i'm trying hard to improve ever</p>
+  <p>I'm learning, so the projects here will not be the bests projets you have seen, but, i'm trying hard to improve ever</p>
   <p>I write english (whith some errors), and read too, but my speaking is not so good, but not for long!</p>
 </div>
 
