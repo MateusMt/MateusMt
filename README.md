@@ -4,7 +4,7 @@ Here are some of my social networks, if you want to talk to me, I'll be happy to
 
 <div>
   <p>About me:</p>
-  <p>I'm currentyl in the 7th semester of Computer engineering. :computer:</p>
+  <p>I'm currently in the 7th semester of Computer engineering. :computer:</p>
   <p>I'm learning front-end development, but i like to learn everything about technologies</p>
   <p>Pronouns: He/Him</p>
   <p>I'm learning development, so the projects here will not be the bests projets you have seen, but, i'm trying hard to improve ever</p>
