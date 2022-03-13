@@ -14,9 +14,10 @@ Here are some of my social networks, if you want to talk to me, I'll be happy to
   <div>
     <a href="https://github.com/MateusMt">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMt&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"></a>
-    <a href="https://github.com/MateusMt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMt&amp;layout=compact&amp;langs_count=7&amp;theme=merko" style="max-width: 50%;"></a>
-
+    <br>
+      <a href="https://github.com/MateusMt">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMt&amp;layout=compact&amp;langs_count=7&amp;theme=merko" style="max-width: 50%;"></a>
+    </br>
   </div>
   </p>
   
