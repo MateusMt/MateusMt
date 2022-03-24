@@ -1,4 +1,4 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2>My name is Mateus, and you found my profile!</h2>
 Here are some of my social networks, if you want to talk to me, I'll be happy to talk :speech_balloon:
 
