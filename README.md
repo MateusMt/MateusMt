@@ -11,21 +11,22 @@ Here are some of my social networks, if you want to talk to me, I'll be happy to
   <p>I write english (whith some errors), i can read it too, and I can communicate verbally if you speak slowly to me!</p>
 </div>
 
-  <div>
-    <a href="https://github.com/MateusMt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMt&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"></a>
-    <br>
-      <a href="https://github.com/MateusMt">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMt&amp;layout=compact&amp;langs_count=7&amp;theme=merko" style="max-width: 50%;"></a>
-    </br>
-  </div>
-  </p>
+<div align="center">
+  <a href="https://github.com/MateusMt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMt&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
   
 <div>
   <h3>Social medias<h3>
-    <p>
       <a href="https://github.com/MateusMt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/mateus-martins-teixeira-a53939187" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="https://www.instagram.com/mateus_teixeira89/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </p>
 </div>
