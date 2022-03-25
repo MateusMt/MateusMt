@@ -11,11 +11,13 @@ Here are some of my social networks, if you want to talk to me, I'll be happy to
   <p>I write english (whith some errors), i can read it too, and I can communicate verbally if you speak slowly to me!</p>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/MateusMt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+##
   
 <div>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
